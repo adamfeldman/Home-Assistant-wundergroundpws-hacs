@@ -1,6 +1,8 @@
 # THIS IS A FORK TO ADD A HACS CONFIG FILE
 
-I do not intend to make any other changes.
+Forked from https://github.com/cytech/Home-Assistant-wundergroundpws.
+
+I do not intend to make any other changes. Please donate to the original creator.
 
 # Home-Assistant-Wundergroundpws v2.X.X
   
