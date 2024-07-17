@@ -1,3 +1,7 @@
+# THIS IS A FORK TO ADD A HACS CONFIG FILE
+
+I do not intend to make any other changes.
+
 # Home-Assistant-Wundergroundpws v2.X.X
   
 
